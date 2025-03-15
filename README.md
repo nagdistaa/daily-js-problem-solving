@@ -1,0 +1,1 @@
+- [day1 - problem](https://linkhttps://github.com/nagdistaa/daily-js-problem-solving/new/main?filename=README.md)
