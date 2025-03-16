@@ -4,7 +4,7 @@
 ---
 
 ## day11 
-* 15 Mars 2025
+* 15 Marsh 2025
 *  Count of positives / sum of negatives
 *  [link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 * notes : 
@@ -20,6 +20,15 @@
 * notes : 
     * Revesion `split ` , `map` , `join` , `replace`;
 
+---
+
+
+## day 13
+* 16 Marsh 2025
+*  Basic Mathematical Operations
+*  [link](https://www.codewars.com/kata/57356c55867b9b7a60000bd7/javascript)
+* notes : 
+    * no notes
 ---
 
 
