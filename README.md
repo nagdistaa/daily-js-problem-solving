@@ -8,6 +8,22 @@
 *  Count of positives / sum of negatives
 *  [link](https://www.codewars.com/kata/576bb71bbbcf0951d5000044)
 * notes : 
-    * من المهم تجنب استخدام جملة return داخل الحلقة التكرارية (مثل for) دون التحقق من استكمال جميع العمليات المطلوبة. في الحالة المذكورة، جملة return i; تم تنفيذها فوراً في التكرار الأول من الحلقة، مما أدى إلى إنهاء الوظيفة وإرجاع قيمة i بدون إتمام التكرار أو معالجة جميع العناصر في المصفوفة. يجب التأكد من أن العمليات الحسابية أو المنطقية داخل الحلقة قد اكتملت قبل استخدام return لإرجاع النتيجة النهائية."
+    * It is important to avoid using the `return` statement inside a loop (like a `for` loop) without ensuring that all necessary operations are completed. In the given case, the `return i;` statement was executed immediately during the first iteration of the loop, causing the function to stop and return the value of `i` without completing the loop or processing all the elements in the array. You should make sure that the calculations or logic inside the loop are finished before using `return` to return the final result.
 
 
+---
+
+## day 12
+* 16 Marsh 2025
+*  Double Char
+*  [link](https://www.codewars.com/kata/56b1f01c247c01db92000076)
+* notes : 
+
+---
+
+
+## day
+* 
+*  
+*  [link]()
+* notes : 
