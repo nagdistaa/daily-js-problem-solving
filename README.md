@@ -34,9 +34,19 @@
 
 ---
 
+## day 14
+
+- 17 March 2025
+- To square(root) or not to square(root)
+- [link](https://www.codewars.com/kata/57f6ad55cca6e045d2000627/javascript)
+- notes :
+  * `Number` , `Number.isInteger()`  , `map` , `Math` , `Math.floor()`
+---
+
 ## day
 
 -
 -
 - [link]()
 - notes :
+---
