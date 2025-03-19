@@ -1,6 +1,6 @@
 # CodeWars
 
-[Link ](https://www.codewars.com)
+[codewars link ](https://www.codewars.com)
 
 ---
 
@@ -59,6 +59,6 @@
 ## day
 -
 -
-- [link]()
+- [problem link]()
 - notes :
 ---
