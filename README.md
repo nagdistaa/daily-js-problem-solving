@@ -43,16 +43,20 @@
   * `Number` , `Number.isInteger()`  , `map` , `Math` , `Math.floor()`
 ---
 
-## day
+## day 15
 
 - 18 March 2025
 - Count by X
 - [link](https://www.codewars.com/kata/5513795bd3fafb56c200049e/javascript)
 - notes : Learn `Array.from` , `Array.key`
 ---
-
+## day 16
+- 19 March 2025
+- Remove String Spaces
+- [link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/javascript)
+- notes : learn `replaceAll()` , `join` , `split` 
+---
 ## day
-
 -
 -
 - [link]()
