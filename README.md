@@ -56,9 +56,15 @@
 - [link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/javascript)
 - notes : learn `replaceAll()` , `join` , `split` 
 ---
+## day 17
+- 19 March 2025
+- Invert values
+- [problem link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
+- notes :
+---
 ## day
 -
 -
 - [problem link]()
-- notes :
+- notes : `map` returns a new arrray 
 ---
