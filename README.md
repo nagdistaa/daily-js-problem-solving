@@ -40,7 +40,8 @@
 - To square(root) or not to square(root)
 - [link](https://www.codewars.com/kata/57f6ad55cca6e045d2000627/javascript)
 - notes :
-  * `Number` , `Number.isInteger()`  , `map` , `Math` , `Math.floor()`
+  - `Number` , `Number.isInteger()` , `map` , `Math` , `Math.floor()`
+
 ---
 
 ## day 15
@@ -49,22 +50,32 @@
 - Count by X
 - [link](https://www.codewars.com/kata/5513795bd3fafb56c200049e/javascript)
 - notes : Learn `Array.from` , `Array.key`
+
 ---
+
 ## day 16
+
 - 19 March 2025
 - Remove String Spaces
 - [link](https://www.codewars.com/kata/57eae20f5500ad98e50002c5/javascript)
-- notes : learn `replaceAll()` , `join` , `split` 
+- notes : learn `replaceAll()` , `join` , `split`
+
 ---
+
 ## day 17
+
 - 19 March 2025
 - Invert values
 - [problem link](https://www.codewars.com/kata/5899dc03bc95b1bf1b0000ad/train/javascript)
-- notes :
+- notes :`map` returns a new arrray
+
 ---
+
 ## day
+
 -
 -
 - [problem link]()
-- notes : `map` returns a new arrray 
+- notes :
+
 ---
