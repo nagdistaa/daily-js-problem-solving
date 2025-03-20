@@ -71,6 +71,15 @@
 
 ---
 
+## day 18
+
+- 20 March 2025
+- Convert boolean values to strings 'Yes' or 'No'.
+- [problem link](https://www.codewars.com/kata/53369039d7ab3ac506000467/javascript)
+- notes : no notes
+
+---
+
 ## day
 
 -
