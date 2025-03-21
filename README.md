@@ -96,6 +96,14 @@
 - notes : learn `bitwise operator` , `floor` function , `parseInt` function
 
 ---
+## day 21
+
+- 21 March 2025
+- Convert a Number to a String!
+- [problem link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/javascript)
+- notes : learn `Stirng` , `toString` 
+
+---
 ## day
 
 -
