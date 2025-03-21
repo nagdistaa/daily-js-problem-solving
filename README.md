@@ -88,6 +88,14 @@
 - notes : remember `reverse` array .
 
 ---
+## day 20
+
+- 21 March 2025
+- Keep Hydrated!
+- [problem link](Keep Hydrated!)
+- notes : learn `bitwise operator` , `floor` function , `parseInt` function
+
+---
 ## day
 
 -
