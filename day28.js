@@ -6,3 +6,10 @@ function bonusTime(salary, bonus) {
     }
 
 console.log(bonusTime(10,1));
+
+
+// ! Another Solution
+
+function bonusTime(salary, bonus) {
+  return '£' + salary * (bonus ? 10 : 1);
+}

@@ -88,6 +88,7 @@
 - notes : remember `reverse` array .
 
 ---
+
 ## day 20
 
 - 21 March 2025
@@ -96,14 +97,26 @@
 - notes : learn `bitwise operator` , `floor` function , `parseInt` function
 
 ---
+
 ## day 21
 
 - 21 March 2025
 - Convert a Number to a String!
 - [problem link](https://www.codewars.com/kata/5265326f5fda8eb1160004c8/javascript)
-- notes : learn `Stirng` , `toString` 
+- notes : learn `Stirng` , `toString`
 
 ---
+
+## day 29
+
+- 25 March 2025
+- Exclamation marks series #1: Remove an exclamation mark from the end of string
+- [problem link](https://www.codewars.com/kata/57fae964d80daa229d000126/javascript)
+- notes :
+  learn `slice` , `replace` , `endwith` functions
+
+---
+
 ## day
 
 -
