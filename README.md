@@ -117,6 +117,17 @@
 
 ---
 
+## day 30
+
+- 25 March 2025
+- 
+Are You Playing Banjo?
+
+- [problem link](https://www.codewars.com/kata/53af2b8861023f1d88000832/javascript)
+- notes :
+  * learn `startsWith` function .     
+---
+
 ## day
 
 -
